@@ -95,7 +95,7 @@ The **Cafe Wise** is a desktop-based Cafe Management System application develope
 ### Bill Generation  
 ![Bill Generation](https://github.com/shubhamt45/CafeWise/blob/master/Bill.png)  
 
-(*Replace `<add_screenshot_path_here>` with the actual paths of your screenshots or URLs if hosted online.*)
+
 
 ---
 
@@ -104,7 +104,6 @@ The **Cafe Wise** is a desktop-based Cafe Management System application develope
 Watch the full demo of the project on YouTube:  
 [📹 Click here to view the video](https://www.youtube.com/watch?v=HVDwEmjsMkw)  
 
-(*Replace `<add_youtube_video_link_here>` with your actual video link.*)
 
 ---
 
